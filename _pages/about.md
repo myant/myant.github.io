@@ -8,7 +8,7 @@ nobio:     true
 # About Myant
 ----------------
 
-![Me](http://www.gravatar.com/avatar/9ffd3273e6f33aaf9cfb1bdccb8f3010?s=200){: .profile .pull-right }
+![Myant](./img/myant.jpg){: .profile .pull-right }
 
 Hi, I'm **Myant**, a programmer from Guangzhou, China. 
 
