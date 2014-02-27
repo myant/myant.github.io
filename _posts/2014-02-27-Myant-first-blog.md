@@ -3,7 +3,7 @@ layout: post
 title:  My First Blog
 description: My First Blog
 tags:   VIM, My First Blog
-image:  mhtc.jpg
+image:  mhtc.gif
 ---
 
 梦回唐朝
