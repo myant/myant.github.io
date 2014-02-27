@@ -1,0 +1,17 @@
+name:   'Myant Blog'
+url:    'myant.github.io'
+author: 'Myant'
+
+include:  ['_pages']
+
+paginate:      10
+paginate_path: '/blog/page:num/'
+permalink:     '/blog/:year/:title/'
+relative_permalinks: false
+
+excerpt_separator: "{{ more }}"
+
+safe:     true
+pygments: true
+markdown: 'maruku'
+timezone: 'Asia/Shanghai'
