@@ -1,4 +1,4 @@
-This is feihu's blog. The source code of this site is forked from [pixelcog.com](http://pixelcog.com/)
+This is Myant's blog. The source code of this site is forked from [pixelcog.com](http://pixelcog.com/)
 
 --------
 Here is the original license from [pixelcog.com](http://pixelcog.com/)
