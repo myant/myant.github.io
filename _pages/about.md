@@ -15,4 +15,4 @@ Hi, I'm **Myant**, a programmer from Guangzhou, China.
 ### Network
 
 Follow Myant:  
-↪ [github](http://github.com/myant) | [douban](http://www.douban.com/people/47964840/) | [weibo](http://weibo.com/u/2778164211)
+↪ [github](http://github.com/myant) | [douban](http://www.douban.com/) | [weibo](http://weibo.com/u/1768377394)
