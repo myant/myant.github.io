@@ -8,7 +8,7 @@ nobio:     true
 # About Myant
 ----------------
 
-![Myant](./img/myant.jpg){: .profile .pull-right }
+![Myant](/img/myant.jpg){: .profile .pull-right }
 
 Hi, I'm **Myant**, a programmer from Guangzhou, China. 
 
