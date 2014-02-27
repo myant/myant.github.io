@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8" />
 		<meta http-equiv="X-UA-Compatible" content="chrome=1" />
-		<title>{% if page.title %}{{ page.title }}{% else %}libfeihu{% endif %}</title>
+		<title>{% if page.title %}{{ page.title }}{% else %}myant{% endif %}</title>
 		
 		<link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 {% if page.blogfeed %}
@@ -35,11 +35,11 @@
 {% if page.nobio != true %}{% if location != '' %}
 				<img class="avatar" src="http://www.gravatar.com/avatar/9ffd3273e6f33aaf9cfb1bdccb8f3010?s=144" alt="Me" />
 {% endif %}
-				<p>libfeihu is the home of <a href="/about/">feihu</a>, a programmer from Shenzhen, China.</p>
+				<p>myant is the home of <a href="/about/">myant</a>, a programmer from Guangzhou, China.</p>
 				<p><a href="http://github.com/biluncloud">github</a> | <a href="http://www.douban.com/people/47964840/">douban</a> | <a href="http://weibo.com/u/2778164211">weibo</a></p>
 {% endif %}
 				<p>
-					<small>© {{ site.time | date: '%Y' }} libfeihu</small><br />
+					<small>© {{ site.time | date: '%Y' }} myant</small><br />
 					<small>Made with <a href="http://jekyllrb.com/">Jekyll</a> &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small>
 				</p>
 			</footer>
@@ -50,7 +50,7 @@
 			_gaq.push(['_setAccount', 'UA-20587204-1']);
 			_gaq.push(['_trackPageview']);
 			
-			var disqus_shortname  = 'feihu',
+			var disqus_shortname  = 'myant',
 			    disqus_identifier = '{{ page.path | split:'/' | last | cgi_escape }}',
 			    disqus_url        = '{{ site.url }}{{ page.url | uri_escape }}'
 			;
